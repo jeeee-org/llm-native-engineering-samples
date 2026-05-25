@@ -1,0 +1,5 @@
+# Optional — only needed for the `--provider openai` / `--provider anthropic`
+# answer backends. The default `extractive` provider, evals, and tests run on
+# the Python standard library alone.
+openai>=1.0
+anthropic>=0.40
