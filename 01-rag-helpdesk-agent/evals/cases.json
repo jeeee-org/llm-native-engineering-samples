@@ -1,0 +1,14 @@
+[
+  {"question": "有給休暇は何日前までに申請すればいいですか？", "expect": "answer", "source": "employment-rules.md"},
+  {"question": "コアタイムは何時から何時までですか？", "expect": "answer", "source": "employment-rules.md"},
+  {"question": "副業はできますか？", "expect": "answer", "source": "employment-rules.md"},
+  {"question": "経費精算の締め日と申請期限を教えてください", "expect": "answer", "source": "expense-policy.md"},
+  {"question": "経費はいつ振り込まれますか？", "expect": "answer"},
+  {"question": "書籍購入は会社が負担してくれますか？いくらまで？", "expect": "answer", "source": "expense-policy.md"},
+  {"question": "APIキーやシークレットはどこで管理しますか？", "expect": "answer", "source": "security-policy.md"},
+  {"question": "顧客の個人情報を外部のLLMに入力してもいいですか？", "expect": "answer", "source": "security-policy.md"},
+  {"question": "プルリクエストのマージにはレビューが何人必要ですか？", "expect": "answer", "source": "dev-guidelines.md"},
+  {"question": "明日の東京の天気を教えてください", "expect": "refuse"},
+  {"question": "おすすめの株式銘柄は何ですか？", "expect": "refuse"},
+  {"question": "社長の好きな食べ物は何ですか？", "expect": "refuse"}
+]
