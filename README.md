@@ -1,5 +1,7 @@
 # llm-native-engineering-samples
 
+[![CI](https://github.com/jeeee-org/llm-native-engineering-samples/actions/workflows/ci.yml/badge.svg)](https://github.com/jeeee-org/llm-native-engineering-samples/actions/workflows/ci.yml)
+
 Practical examples of AI Agent, RAG, MCP, and LLM workflow automation for
 real-world engineering teams.
 
